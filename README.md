@@ -1,4 +1,4 @@
-# SuckDdos the most powerful simple 🔥 
+# SuckDdos the most powerful simple TOOL🔥 
 
 # TERMUX INSTALLATION 
 * pkg install python
